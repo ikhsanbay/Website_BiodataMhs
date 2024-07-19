@@ -1,0 +1,82 @@
+form {
+    border: 3px solid #f1f1f1; 
+}
+
+.pinggir {
+    padding: 100px;
+    padding-top: 30px;
+}
+input[type=text], input[type=password] {
+    
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+    
+button {
+    background-color: blue;
+    color: white; 
+    padding: 14px 20px; 
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+    
+button:hover { 
+    opacity: 0.8;
+}
+    
+.cancelbtn {  
+    width: auto;
+    padding: 10px 18px; 
+    background-color: #f44336; 
+}
+    
+.imgcontainer { 
+    text-align: center; 
+    margin: 24px 0 12px 0; 
+}
+    
+img.avatar { 
+    width: 40%; 
+    border-radius: 50%; 
+}
+    
+.container {
+    padding: 16px; 
+}
+    
+span.nama {
+    
+    float: right;
+    padding-top: 16px; 
+}
+
+span.alamat{
+    
+    float: right;
+    padding-top: 16px; 
+}
+
+span.prodi {
+    
+    float: right;
+    padding-top: 16px; 
+}
+
+
+.kepala {
+    background-color: black;
+    height: 60px;
+}
+
+.kepala h2{
+    color: white;
+    padding-left: 30px;
+    padding-top: 15px;
+    margin-bottom: 15px;
+}
